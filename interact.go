@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/nekohasekai/AndroidLibV2rayLite/VPN"
+	"github.com/kevinMKG/AndroidLibV2rayLite/VPN"
 	mobasset "golang.org/x/mobile/asset"
 
 	v2core "github.com/kevinMKG/vtsttt/v4"
