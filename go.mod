@@ -1,4 +1,4 @@
-module github.com/kevinMKG/AndroidLibV2rayLite
+module github.com/nekohasekai/AndroidLibV2rayLite
 
 go 1.16
 
