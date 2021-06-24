@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	v2commlog "github.com/kevinMKG/vtsttt/v4/common/log"
+	v2commlog "github.com/kevinMKG/v2ray-core/v4/common/log"
 )
 
 // This struct creates our own log writer without datatime stamp
